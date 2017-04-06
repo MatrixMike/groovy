@@ -1,6 +1,6 @@
 current = 1 
 next = 1
-10.times {
+15.times {
 	print current + ' '
 	newCurrent = next
 	next = next + current
