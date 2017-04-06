@@ -2,7 +2,7 @@
 
 remember :
 compile with groovyc <fname.groovy>
-execute with groovyc <fname>    
+execute with groovy  <fname>    
 
 groovy version check : groovy -version
 java verion check: ...
