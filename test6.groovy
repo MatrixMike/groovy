@@ -17,9 +17,10 @@ for(aChar in hello){
 
 
 // Even a File Object can be iterated in Groovy.
-//String thisFileName = "Loop.groovy"
-///thisFile = new File(thisFileName)
-//for(aLine in thisFile){
-//    println aLine
-//}
+String thisFileName = "Loop.txt"
+println ("File to be processed  $thisFileName")
+thisFile = new File(thisFileName)
+for(aLine in thisFile){
+    println aLine
+}
 
