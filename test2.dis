@@ -1,0 +1,43 @@
+Compiled from "test2.groovy"
+public class test2 extends groovy.lang.Script {
+  public static transient boolean __$stMC;
+  public static long __timeStamp;
+  public static long __timeStamp__239_neverHappen1430733545908;
+  public test2();
+  public test2(groovy.lang.Binding);
+  public static void main(java.lang.String...);
+  public java.lang.Object run();
+  public java.lang.Object this$dist$invoke$3(java.lang.String, java.lang.Object);
+  public void this$dist$set$3(java.lang.String, java.lang.Object);
+  public java.lang.Object this$dist$get$3(java.lang.String);
+  protected groovy.lang.MetaClass $getStaticMetaClass();
+  public static void __$swapInit();
+  static {};
+  public java.lang.Object super$3$getProperty(java.lang.String);
+  public java.lang.String super$1$toString();
+  public void super$3$setProperty(java.lang.String, java.lang.Object);
+  public void super$1$notify();
+  public void super$3$println();
+  public void super$1$notifyAll();
+  public void super$3$print(java.lang.Object);
+  public void super$3$printf(java.lang.String, java.lang.Object[]);
+  public java.lang.Object super$1$clone();
+  public java.lang.Object super$3$evaluate(java.lang.String);
+  public void super$1$wait();
+  public groovy.lang.MetaClass super$2$getMetaClass();
+  public void super$1$wait(long, int);
+  public void super$2$setMetaClass(groovy.lang.MetaClass);
+  public java.lang.Class super$1$getClass();
+  public groovy.lang.Binding super$3$getBinding();
+  public void super$1$finalize();
+  public void super$3$printf(java.lang.String, java.lang.Object);
+  public void super$3$setBinding(groovy.lang.Binding);
+  public void super$1$wait(long);
+  public void super$3$run(java.io.File, java.lang.String[]);
+  public java.lang.Object super$3$evaluate(java.io.File);
+  public void super$3$println(java.lang.Object);
+  public boolean super$1$equals(java.lang.Object);
+  public java.lang.Object super$3$invokeMethod(java.lang.String, java.lang.Object);
+  public int super$1$hashCode();
+  static java.lang.Class class$(java.lang.String);
+}
