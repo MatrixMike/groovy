@@ -1,0 +1,500 @@
+   38  tree
+   39  cd ../chapter_8
+   40  ls
+   41  ls -lc
+   42  cd ../
+   43  cd ../gtkbookCD/gtkbook/
+   44  ls -lc
+   45  cd chapter_8
+   46  ls -lc
+   47  pwd
+   48  ./celldatafunction
+   49  ls -lc
+   50  chmod +777 celldatafunction
+   51  ls -lc
+   52  ./celldatafunction 
+   53  make 
+   54  ls -lc
+   55  cd ~/gtkbook/chapter_8
+   56  ls -lc
+   57  chmod +777 celldatafunction
+   58  ls -lc
+   59  chmod +777 accelerators
+   60  chmod +777 editable
+   61  chmod +777 liststore treestore
+   62  ls -lc
+   63  chmod +777 selections
+   64  ls -lc
+   65  ./treestore &
+   66  ./editable &
+   67  uname -a
+   68  cd ~
+   69  ls -lc
+   70  cd gtk-foobar2/
+   71  ls -lc
+   72  cd Debug/src/
+   73  ls -lc
+   74  ./gtk_foobar2 
+   75  ./gtk_foobar2 
+   76  df -h
+   77  lsusb 
+   78  ifconfig 
+   79  ifconfig 
+   80  ifconfig 
+   81  ifconfig 
+   82  ifconfig 
+   83  cd ~
+   84  ls -lc
+   85  cd gtkbook
+   86  ls -lc
+   87  cd chapter_8/
+   88  ls -lc
+   89  ./celldatafunction 
+   90  gedit 
+   91  cd ~/gtkbook/chapter_8/
+   92  ls -lc
+   93  make
+   94  make 
+   95  make celldatafunction
+   96  lsusb 
+   97  lsusb 
+   98  git
+   99  tree
+  100  cd ~/gtkbook
+  101  ls -lc
+  102  cd chapter_8/
+  103  ls -lc
+  104  make
+  105  make
+  106  pkg-config --list-all | sort | more
+  107  ls -lc
+  108  cat Makefile 
+  109  mkdir old
+  110  cp Makefile old/
+  111  ls -lc
+  112  tree
+  113  vi Makefile 
+  114  make
+  115  ls -lc
+  116  cd ~
+  117  ls -lc
+  118  cd foobar/
+  119  ls -lc
+  120  cat Makefile 
+  121  ls -lc
+  122  make
+  123  make all
+  124  gnome-disks &
+  125  dmesg | more
+  126  lsusb 
+  127  lsusb 
+  128  hp-timedate 
+  129  lsusb 
+  130  lsusb 
+  131  lsusb 
+  132  lsusb 
+  133  hp-timedate 
+  134  cd ~/Downloads/
+  135  ls -lc
+  136  cd ~
+  137  ls -lc
+  138  mkdir hp
+  139  mv ~/Downloads/hplip-3.15.2.run ~/hp/
+  140  cd ~/hp/
+  141  ls -lc
+  142  chmod +777 hplip-3.15.2.run 
+  143  ./hplip-3.15.2.run 
+  144  hp-timedate 
+  145  hp-timedate 
+  146  hp-timedate 
+  147  hp-timedate 
+  148  hp-timedate 
+  149  hp-timedate 
+  150  uname -a
+  151  uname -a
+  152  cd ~/gtkbook/chapter_13
+  153  ls -lc
+  154  make
+  155  ls -lc
+  156  cd ../exercises/
+  157  ls -lc
+  158  make
+  159  wodim -prcap
+  160  wodim -prcap
+  161  appres -h
+  162  java --version
+  163  gedit &
+  164  df -h
+  165  lsusb 
+  166  lsusb 
+  167  hp-timedate 
+  168  hp-timedate 
+  169  hp-timedate 
+  170  scala
+  171  uname -a
+  172  sudo apt-get ins scala
+  173  sudo apt-get install scala
+  174  scala
+  175  uname -a
+  176  scala
+  177  lsusb 
+  178  hp-timedate 
+  179  hp-timedate 
+  180  hp-timedate 
+  181  cd aspergers/assessments/
+  182  ls -lct
+  183  scala
+  184  ls -lct
+  185  ls -lc
+  186  ls -lc
+  187  ls -lc
+  188  hp-timedate 
+  189  ls -lc
+  190  tree
+  191  cd aspergers/
+  192  ls -lct
+  193  brasero &
+  194  brasero &
+  195  cd aspergers/
+  196  brasero &
+  197  lsusb 
+  198  hp-timedate 
+  199  hp-timedate 
+  200  hp-timedate 
+  201  hp-info 
+  202  hp-doctor 
+  203  hp-timedate 
+  204  gpu-manager 
+  205  uname -a
+  206  scala
+  207  scala
+  208  java -version
+  209  tree /home/
+  210  putty
+  211  sudo apt-get install putty
+  212  putty
+  213  putty
+  214  geany
+  215  sudo apt-get install geany
+  216  scala
+  217  lsusb 
+  218  cd ~/
+  219  pwd
+  220  ls ard*
+  221  ls ard*  -lc
+  222  cd arduino161/
+  223  ls   -lc
+  224  cd arduino-1.6.1/
+  225  ls   -lc
+  226  ./arduino 
+  227  geany 
+  228  cd ~/pelicans/
+  229  ls -lc
+  230  geany index.htm 
+  231  history 
+  232  cd /etc/udev/
+  233  ls -lc
+  234  cd rules.d/
+  235  ls -lc
+  236  ls   -lc
+  237  cat README 
+  238  sudo /etc/init.d/udev restart
+  239  history 
+  240  cd ~/thisPC/
+  241  more < history1.txt 
+  242  history 
+  243  history > history2.txt 
+  244  ls   -lc
+  245  gedit 77-modem-manager-freetronics.rules  &
+  246  sudo gedit 77-modem-manager-freetronics.rules  &
+  247  sudo gedit 77-modem-manager-freetronics.rules  &
+  248  sudo gedit 77-modem-manager-freetronics.rules 
+  249  history 
+  250  cd ~/
+  251  ls -lc
+  252  mkdir thisPC
+  253  ls -lc
+  254  history > ~/thisPC/history1.txt
+  255  tty 
+  256  ttyrec
+  257  sudo apt-get install ttyrec
+  258  ttyrec
+  259  uname -a
+  260  ttyrec -help
+  261  date
+  262  java -version
+  263  pwd
+  264  cd lein/
+  265  ls -lc
+  266  cd ~/
+  267  ls -lc
+  268  ls -a
+  269  pwd
+  270  cd ~/bi
+  271  cd /usr/bin/
+  272  ls -lc
+  273  cp ~/lein/lein /usr/bin/
+  274  sudo cp ~/lein/lein /usr/bin/
+  275  ls -lc | more
+  276  ls -lc | grep lein
+  277  chmod a+x lein 
+  278  ls -lc | grep lein
+  279  sudo chmod a+x lein 
+  280  ls -lc | grep lein
+  281  lein 
+  282  lein help
+  283  lein help tutorial
+  284  lein repl
+  285  lein repl
+  286  pwd
+  287  clojure
+  288  cd clojure/
+  289  ls -lc
+  290  ls -lc
+  291  javac PropertiesTest.java 
+  292  cd ~/
+  293  ls -a
+  294  cd ?
+  295  cd /
+  296  ls -a
+  297  cd /usr/local/
+  298  ls -a
+  299  cd bin
+  300  ls -a
+  301  ps -p $$
+  302  echo $SHELL
+  303  java -version
+  304  javac -version
+  305  javac -version
+  306  sudo apt-get install openjdk-6-jdk
+  307  javac -version
+  308  pwd
+  309  cd clojure/
+  310  ls -lc
+  311  cat typehints.txt 
+  312  mkdir myProperties.txt
+  313  ls -lc
+  314  rm myProperties.txt/
+  315  touch myProperties.txt
+  316  ls -lc
+  317  rd myProperties.txt/
+  318  remdir myProperties.txt/
+  319  rmdir myProperties.txt/
+  320  ls -lc
+  321  touch myProperties.txt
+  322  ls -lc
+  323  ls -lc
+  324  java PropertiesTest > propertiesout.txt
+  325  ls -lc
+  326  more < propertiesout.txt 
+  327  ls -lc
+  328  ls *.java -lc
+  329  javac *.java
+  330  rm ProperetiesTest.java 
+  331  ls *.java -lc
+  332  javac *.java
+  333  ls -lc
+  334  rm *.class 
+  335  ls -lc
+  336  javac *.java
+  337  ls -lc
+  338  ls -lct
+  339  rm *.class 
+  340  ls -lct
+  341  cd ~/clojure/
+  342  ls -lc
+  343  clojure
+  344  sudo apt-get install clojure1.4
+  345  clojure
+  346  clojure1.4 
+  347  clojure1.4 
+  348  hp-timedate 
+  349  hp-timedate 
+  350  hp-timedate 
+  351  hp-timedate 
+  352  hp-timedate 
+  353  hp-doctor 
+  354  hp-upgrade 
+  355  cd ~/gtk-foobar2/
+  356  ls -lc
+  357  cd Debug/
+  358  ls -lc
+  359  cd src/
+  360  ls -lc
+  361  ./gtk_foobar2 
+  362  clojure
+  363  cd clojure/
+  364  ls -lc
+  365  clojure  javadata.clj 
+  366  clojure  javadata.clj 
+  367  clojure  javadata.clj 
+  368  clojure
+  369  clojure  javadata.clj 
+  370  ntp
+  371  ntpd
+  372  javap genclassy.core
+  373  ntp
+  374  ntpd
+  375  sudo apt-get install ntp
+  376  ls -lc
+  377  cd ~/clojure/
+  378  clojure  javadata.clj 
+  379  clojure  javadata.clj 
+  380  uname -a
+  381  hp-timedate 
+  382  hp-timedate 
+  383  hp-timedate 
+  384  hp-timedate 
+  385  lsusb 
+  386  cd ~/clojure/
+  387  uname -a
+  388  uname -a
+  389  ls -lc
+  390  ls -lc
+  391  cd clojure-master/
+  392  ls -lc
+  393  clojure sysprop2.clj 
+  394  clojure javax-clojure2.clj 
+  395  clojure javax-clojure2.clj 
+  396  groovy
+  397  sudo apt-get install groovy
+  398  groovyConsole 
+  399  cd groovy/
+  400  ls -lc
+  401  groovyc test5.groovy 
+  402  ls -lc
+  403  groovyc test5.groovy -d classes
+  404  ls -lc
+  405  ls classes/
+  406  java classes.test5 
+  407  echo %GROOVY_HOME%
+  408  echo $GROOVY_HOME
+  409  ls -lc
+  410  groovy test5.groovy 
+  411  groovy test4.groovy 
+  412  groovy test3.groovy 
+  413  cat test1.groovy 
+  414  groovy test3.1roovy 
+  415  cat test2.groovy 
+  416  groovy test2.groovy 
+  417  ls -lc
+  418  ls -lct
+  419  cat test1.groovy 
+  420  cat test2.groovy 
+  421  cat test3.groovy 
+  422  cat test4.groovy 
+  423  groovy test4.groovy 
+  424  groovy test4.groovy 
+  425  groovy test3.groovy 
+  426  ls -lct
+  427  groovy test3.groovy 
+  428  groovy test2.groovy 
+  429  ls -lct
+  430  groovyc test2.groovy 
+  431  ls -lct
+  432  ls -lct
+  433  ls -lct
+  434  groovyc  test7.groovy 
+  435  ls -lct
+  436  ls -l
+  437  mkdir groovy
+  438  cd groovy/
+  439  ls -l
+  440  ls -lc
+  441  groovyc test1.groovy 
+  442  ls -lc
+  443  java test1 
+  444  groovyc test2.groovy 
+  445  ls -lc
+  446  javap test2.class 
+  447  javap test2.class > test2.dis
+  448  ls -lc
+  449  ls -lct
+  450  cd ..
+  451  curl -s get.gvmtool.net | bash
+  452  sudo apt-get install curl
+  453  curl -s get.gvmtool.net | bash
+  454  source "$HOME/.gvm/bin/gvm-init.sh"
+  455  gvm install groovy
+  456  cd groovy/
+  457  ls -lc
+  458  groovyc test1.groovy 
+  459  ls -lc
+  460  groovy -version
+  461  javac -version
+  462  java -version
+  463  df -h
+  464  groovyConsole
+  465  groovyConsole
+  466  cd ~/groovy/
+  467  ls -lc
+  468  groovyConsole
+  469  cd ~/thisPC/
+  470  ls -lc
+  471  history > history3.txt
+  472  grep curl   history3.txt 
+  473  more < history3.txt 
+  474  cd ~/groovy/
+  475  ls -lc
+  476  git init
+  477  git add test7.groovy 
+  478  git status
+  479  git commit -m "from lm17 dell"
+  480  ping electroteach.com
+  481  ping electroteach.com
+  482  git status
+  483  git config --global user.email matrixmike@icloud.com 
+  484  git config --global user.name "Mike"
+  485  git commit -m "from lm17 dell"
+  486  git remote add origin https://github.com/MatrixMike/groovy.git 
+  487  git push -u origin master 
+  488  git pull
+  489  ls -lc
+  490  git pull remote master
+  491  git pull origin master
+  492  ls -lc
+  493  git status
+  494  git add test6.groovy 
+  495  git status
+  496  git commit -m "another file from LM17"
+  497  git status
+  498  git push -u origin master 
+  499  git status
+  500  cd ~/groovy/
+  501  ls -lc
+  502  ls -lc
+  503  groovy javax1.groovy 
+  504  groovyc javax1.groovy 
+  505  ls -lc
+  506  java -cp .:~/.gvm/groovy/2.4.3/lib/*:. Main
+  507  java -cp .:~/.gvm/groovy/2.4.3/lib/*:. main
+  508  java -cp ".:~/.gvm/groovy/2.4.3/lib/*:." main
+  509  java -cp ~/.gvm/groovy/2.4.3/lib/*:. main
+  510  java -cp ~/.gvm/groovy/2.4.3/lib/*: main
+  511  java -cp ~/.gvm/groovy/2.4.3/lib/* main
+  512  java -cp ~/.gvm/groovy/2.4.3/lib/ main
+  513  java -cp ~/.gvm/groovy/2.4.3/lib main
+  514  export path
+  515  export PATH
+  516  where java
+  517  gwhere java
+  518  sudo apt-get install gwhere
+  519  sudo apt-get install gwhere
+  520  gwhere java
+  521  pwd
+  522  PATH=/home/mike/.gvm/groovy/2.4.3/lib/:$PATH
+  523  export PATH
+  524  echo $PATH
+  525  java main
+  526  java -cp ~/.gvm/groovy/2.4.3/lib Main
+  527  ls -lc
+  528  cat test7.groovy 
+  529  java test7 
+  530  echo $CLASSPATH
+  531  locate groovy
+  532  java -cp ~/.gvm/groovy/2.4.3/lib Main
+  533  java -cp ~/.gvm/groovy/2.4.3/lib/* Main
+  534  java -cp ~/.gvm/groovy/2.4.3/lib/*:. Main
+  535  groovyc javax1.groovy 
+  536  java -cp ~/.gvm/groovy/2.4.3/lib/*:. Main
+  537  history > groovyhistory1.txt
